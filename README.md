@@ -4,3 +4,5 @@ For simplitcity and easy detection of these codes from images I converted colorf
 Other that this I tried  to shrink the size of the image but it did not improve the results.
 
 One more approach which can be used is that writing our own/pre-trained neural network for barcode detection (Link ‘https://www3.hs-albsig.de/wordpress/point2pointmotion/2021/02/05/barcode-detection-with-a-neural-network/’)
+
+Outputs are uploaded on this drive - 'https://drive.google.com/drive/folders/1rgJnTNqixoCEE6zq1yH0kg_F-Dayfe1U?usp=sharing'
